@@ -9,9 +9,7 @@ Este guia foi criado especialmente para você. Aqui, vamos explicar como o siste
 ---
 
 ## 🔑 1. Como Acessar o Sistema
-1. Acesse o link oficial do SAPE pelo navegador do seu computador ou celular: https://sape.zonaeducacional.org/ (no celular android, baixe o o arquivo de instalação: https://sape.zonaeducacional.org/app-sape.apk vocẽ pode instalar para cirar um icone na sua área de trabalho.
-2. Na tela inicial, digite o seu **E-mail** e a sua **Senha** (fornecidos pela Secretaria de Educação).
-3. Clique em **Entrar no Sistema**.
+Solicite uma visita de demonstração: sape.mastersistem@gmail.com ou https://chat.whatsapp.com/BYwhOAGP9ul7Ql0QTPghrj
 
 > [!TIP]
 > **Esqueceu algo ou está com problemas?** Na própria tela de login (e também lá no topo, dentro do sistema), você verá um ícone verde do **WhatsApp**. Clicando nele, você entra direto na nossa **Comunidade de Suporte** e nossa equipe te ajudará na hora!
